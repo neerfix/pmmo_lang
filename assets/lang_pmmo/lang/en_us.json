@@ -1,0 +1,22 @@
+{
+  "pmmo.mining": "Mining",
+  "pmmo.excavation": "Excavation",
+  "pmmo.woodcutting": "Wood Cutting",
+  "pmmo.farming": "Farming",
+  "pmmo.building": "Building",
+  "pmmo.agility": "Agility",
+  "pmmo.endurance": "Endurance",
+  "pmmo.combat": "Combat",
+  "pmmo.archery": "Archery",
+  "pmmo.smithing": "Smithing",
+  "pmmo.flying": "Flying",
+  "pmmo.crafting": "Crafting",
+  "pmmo.slayer": "Slayer",
+  "pmmo.hunter": "Hunter",
+  "pmmo.taming": "Taming",
+  "pmmo.magic": "Magic",
+  "pmmo.cooking": "Cooking",
+  "pmmo.alchemy": "Alchemy",
+  "pmmo.swimming": "Swimming",
+  "pmmo.fishing": "Fishing"
+}
