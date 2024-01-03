@@ -1,0 +1,22 @@
+{
+  "pmmo.mining": "Bergbau",
+  "pmmo.excavation": "Ausgrabungen",
+  "pmmo.woodcutting": "Holzfällen",
+  "pmmo.farming": "Landwirtschaft",
+  "pmmo.building": "Bauwesen",
+  "pmmo.agility": "Agilität",
+  "pmmo.endurance": "Ausdauer",
+  "pmmo.combat": "Kampf",
+  "pmmo.archery": "Bogenschießen",
+  "pmmo.smithing": "Schmieden",
+  "pmmo.flying": "Fliegen",
+  "pmmo.crafting": "Handwerk",
+  "pmmo.slayer": "Töter",
+  "pmmo.hunter": "Jäger",
+  "pmmo.taming": "Domestizierung",
+  "pmmo.magic": "Magie",
+  "pmmo.cooking": "Kochen",
+  "pmmo.alchemy": "Alchemie",
+  "pmmo.swimming": "Schwimmen",
+  "pmmo.fishing": "Angeln"
+}
